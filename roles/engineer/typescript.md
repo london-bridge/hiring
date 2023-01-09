@@ -30,3 +30,5 @@ For information on our hiring process and what it’s like to work at London Bri
 - Remote first – We are a fully distributed company, meaning we don’t have a set work location. Team members can choose to work from home or from a co-working space. We’ll furnish your home office or rent you a co-working space.
 
 **Recruiters**: Please do **NOT** contact us about this job. All hiring duties at London Bridge are carried out by our staff.
+
+**[Apply to Job](https://github.com/london-bridge/hiring/issues/new)**
