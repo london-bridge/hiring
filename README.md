@@ -8,7 +8,9 @@
   <p>Interested in joining us? Here’s a little bit about what it’s like to work at London Bridge 🤝</p>
 </div>
 
-<br />
+## Opened Positions
+
+- [Full Stack Engineer (TypeScript/React)](/roles/engineer/typescript.md)
 
 ## Work With Us
 
