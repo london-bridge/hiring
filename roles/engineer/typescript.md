@@ -25,6 +25,8 @@ For information on our hiring process and what it’s like to work at London Bri
 
 ## Benefits
 
-TODO
+- Competitive salaries – We recognize several levels of career progression for developers and tie compensation to those levels corresponding to their seniority and experience. If you consider yourself to be at a higher level, we still encourage you to apply and can discuss additional opportunities with you!
+- Flexible time off policy
+- Remote first – We are a fully distributed company, meaning we don’t have a set work location. Team members can choose to work from home or from a co-working space. We’ll furnish your home office or rent you a co-working space.
 
 **Recruiters**: Please do **NOT** contact us about this job. All hiring duties at London Bridge are carried out by our staff.
